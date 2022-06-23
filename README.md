@@ -101,4 +101,4 @@ Automated tests will run each time you save your work. Update the `script.js` fi
 - MDN event listener [docs](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 - MDN innerHTML [docs](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML)
 - MDN setAttribute [docs](https://developer.mozilla.org/en-US/docs/Web/API/Element/setAttribute)
-- MDN window onload [docs](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches)
+- MDN window onload [docs](https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/onload)
